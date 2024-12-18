@@ -1,0 +1,64 @@
+[
+    {
+      "title": "Pantheon of Shadows",
+      "slug": "pantheon-of-shadows",
+      "description": "A game Developed in Unity Engine as a part of a college assignment. The project was optimized to weigh only 5 MB, including textures, scripts, and models.",
+      "goal": "Collect shadow orbs to proceed further in the level while destroying obstacles and teleporting.",
+      "technologies": ["Unity Engine", "C#", "Blender", "Art"],
+      "images": {
+        "gif": "images/shadowgamegif-optimised.gif",
+        "gallery": [
+          "images/unitygame/screenshot1.png",
+          "images/unitygame/screenshot2.png",
+          "images/unitygame/screenshot-3.png"
+        ]
+      }
+    },
+    {
+      "title": "Eat and Run",
+      "slug": "eat-and-run",
+      "description": "A game Developed in P5.js Engine as a college project. The particle systems spawning upon enemy defeat were the most challenging aspect.",
+      "goal": "Collect as many points as possible while avoiding red enemies.",
+      "technologies": ["P5.js", "JavaScript"],
+      "images": {
+        "gif": "images/eatandrun/eatandrun.gif",
+        "gallery": [
+          "images/eatandrun/screenshot-1.png",
+          "images/eatandrun/screenshot-3.png",
+          "images/eatandrun/screenshot-2.png"
+        ]
+      }
+    },
+    {
+        "title": "Countries",
+        "slug": "countries",
+        "description": "An application developed using React.js and the Countries API as a college project. The project utilized React.js for optimization and Bootstrap for enhanced visuals.",
+        "goal": "Display every country's information and location on the map.",
+        "technologies": ["HTML", "CSS", "Bootstrap", "React.js"],
+        "images": {
+          "gif": "images/countries/countries.gif",
+          "gallery": [
+            "images/countries/screenshot1.png",
+            "images/countries/screenshot2.png",
+            "images/countries/screenshot3.png"
+          ]
+        },
+        "link": "https://portfolio-an-mad.web.app/countries"
+    },
+    {
+      "title": "Starving for Air",
+      "slug": "starving-for-air",
+      "description": "A game Developed in RenPy Engine as a personal project. Featuring my friends, it quickly became an inside joke within my friend group. Drawing character sprites with different states while maintaining a consistent art style was challenging.",
+      "goal": "Survive weird and random situations, making choices that define the ending.",
+      "technologies": ["RenPy Engine", "Python", "Adobe Photoshop", "Art"],
+      "images": {
+        "gif": "images/visualnovel/vn-gif.gif",
+        "gallery": [
+          "images/visualnovel/screenshot0001.png",
+          "images/visualnovel/screenshot0002.png",
+          "images/visualnovel/screenshot0003.png"
+        ]
+      }
+    }
+  ]
+  
